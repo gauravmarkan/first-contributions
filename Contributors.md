@@ -50,6 +50,7 @@
 - [Sergio Yunsuk Lee] (https://github.com/yunsuklee)
 - [Jalu Cahyo](https://github.com/Grydr)
 - [India Rome]()
+- [Gaurav Markan](https://github.com/gauravmarkan)
 - [Nwanya Emmanuel](https://github.com/emmydev9)
 - [Ruth Ikegah](https://github.com/Ruth-ikegah)
 - [Andie Pearce]()
